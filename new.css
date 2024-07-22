@@ -1,0 +1,110 @@
+
+		    
+			
+			.body{
+			        margin:0;
+					padding:0; 
+     			 }
+		  
+			.myclass{
+                     color:red;
+				     }
+      
+            .tophead{
+			         float:right;
+					 margin-top:5%;
+					 margin-right:5%;
+					 
+					 }
+		    
+			.linktag{
+			         float:left; 
+					 font-size:14px; 
+					 margin-top:3%;
+			         }
+			
+		   .image1{
+		            margin-top:9%;
+		          }
+				  
+		   .image2{
+		            margin-top:2%;
+				    }
+				   
+			.marquee{
+			        background-color:black;
+					color:white;
+					font-size:24px;
+			        }	   
+			
+            .head1{
+                      
+					background-color:#ccd5ae;
+					width:100%;
+					height:21%;
+					 }
+
+				   
+			.offerbar{
+                       margin-left:28%;
+					   margin-top:3%; 
+					   margin-bottom:3%;
+					   font-size:23px;
+                      } 
+			 
+			.Endbar{
+		            background-color:black;
+					margin:180px 20px 0px 0px; 
+					float:left;
+					width:1520px; 
+					height:190px;
+					margin:0;
+					padding:0;
+                   }
+				   
+			 .home{
+			       float:left;
+				   margin: 1px 10px 5px 90px;
+			       }
+				   
+				   
+			.titleTags{
+				       float:left;
+				       margin: 1px 10px 5px 40px;
+                      }		
+		    .home{
+                     float:left;
+					 margin: 1px 10px 5px 90px;
+		          }  
+				  
+		    .offer{
+			        float:left;
+					margin: 1px 10px 5px 40px;
+			     }	
+
+
+            .newarrvial{ 
+                        float:left;
+						margin:1px 10px 5px 370px;
+			           }
+			
+			.raga{
+				  float:left;
+				  margin:10px 10px 5px 40px;
+			   } 
+			   
+			.Watches{
+				  margin-top:170px;
+				  font-size:26px;
+		     	}
+			
+            .u{
+                font-size:15px;
+			} 
+			
+			
+			.downiamge{
+				  float:left;
+			   }
+			
+        
